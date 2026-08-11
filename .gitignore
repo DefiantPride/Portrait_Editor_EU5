@@ -1,0 +1,10 @@
+build/
+*.obj
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.ilk
+ace_bridge.ini
+ace_portrait_bridge.log
