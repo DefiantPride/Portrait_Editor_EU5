@@ -167,7 +167,7 @@ are open.
 
 ---
 
-## Building it yourself
+## Building it yourself if you don't see ace_bridge_loader.exe
 
 Install the free **Build Tools for Visual Studio** with the C++ workload, open
 an **x64 Native Tools Command Prompt for VS**, and run:
